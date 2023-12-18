@@ -1,5 +1,8 @@
 # Author
-Ronen H
+Ronen H  
+
+# Time Frame
+October 2023 to December 2023.  
 
 # Data Source
 The text files for each book of the King James Bible can be accessed via [https://archive.org/details/kjv-text-files](https://archive.org/details/kjv-text-files).
